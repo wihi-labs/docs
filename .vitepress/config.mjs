@@ -21,8 +21,8 @@ export default defineConfig({
         items: [
           { text: 'What is WiHi?', link: '/' },
           // { text: 'Why WiHi?', link: '/intro/why' },
-          // { text: 'Technology', link: '/intro/tech' },
-          // { text: 'Tokenomics', link: '/intro/tokenomics' },
+          { text: 'Technology', link: '/intro/tech' },
+          { text: 'Tokenomics', link: '/intro/tokens' },
           { text: 'Getting Started', link: '/intro/get-started' }
         ]
       },
