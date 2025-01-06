@@ -19,10 +19,10 @@ export default defineConfig({
         text: 'Introduction',
         collapsed: true,
         items: [
-          { text: 'What is WiHi?', link: '/' },
-          { text: 'Why WiHi?', link: '/intro/why' },
-          { text: 'Technology', link: '/intro/tech' },
-          { text: 'Tokenomics', link: '/intro/tokenomics' },
+          // { text: 'What is WiHi?', link: '/' },
+          // { text: 'Why WiHi?', link: '/intro/why' },
+          // { text: 'Technology', link: '/intro/tech' },
+          // { text: 'Tokenomics', link: '/intro/tokenomics' },
           { text: 'Getting Started', link: '/intro/get-started' }
         ]
       },
