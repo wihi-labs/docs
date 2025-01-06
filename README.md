@@ -1,2 +1,3 @@
-`bun run build`
-`bun run dev`
+```sh
+bun run build &&bun run dev
+```
